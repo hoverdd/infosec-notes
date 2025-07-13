@@ -39,7 +39,7 @@ Each folder contains an `index.md` file with organized notes and links in Markdo
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/infosec-notes.git
+git clone https://github.com/hoverdd/infosec-notes.git
 cd infosec-notes
 
 # Add the PaperMod theme
