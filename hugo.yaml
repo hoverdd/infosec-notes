@@ -1,0 +1,21 @@
+baseURL: "http://localhost/"
+title: "Infosec Notes"
+theme: "PaperMod"
+languageCode: "en-us"
+
+params:
+  author: "hoverdd"
+  defaultTheme: auto
+  ShowReadingTime: true
+  disableSpecial1stPost: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+frontmatter:
+  format: yaml
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
