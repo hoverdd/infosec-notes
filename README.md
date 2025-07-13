@@ -20,6 +20,7 @@ Built with [Hugo](https://gohugo.io/) and the minimalist [PaperMod](https://gith
 
 All content is stored in:
 
+```
 content/posts/
 ├── privesc/
 ├── enumeration/
@@ -27,7 +28,7 @@ content/posts/
 ├── reverse-shells/
 ├── encryption-decryption/
 └── games/
-
+```
 
 Each folder contains an `index.md` file with organized notes and links in Markdown format.
 
