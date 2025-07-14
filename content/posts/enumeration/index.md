@@ -90,9 +90,13 @@ A globally-accessible knowledge base of adversary tactics and techniques.
 
 ---
 
+### Git Enumeration
+→ [Explore](/posts/enumeration/git-enum/)
+
+---
+
 ### Miscellaneous Gist  
-GitHub Gist: [https://gist.github.com/4n6ist/99241df331bb06f393be935f82f036a5](https://gist.github.com/4n6ist/99241df331bb06f393be935f82f036a5)  
-A useful collection of enumeration and pentesting notes.
+UTMP Parser GitHub Gist: [https://gist.github.com/4n6ist/99241df331bb06f393be935f82f036a5](https://gist.github.com/4n6ist/99241df331bb06f393be935f82f036a5)  
 
 ---
 
