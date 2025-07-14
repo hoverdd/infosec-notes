@@ -8,6 +8,18 @@ params:
   defaultTheme: auto
   disableSpecial1stPost: true
   ShowCodeCopyButtons: true
+  mainSections: ["posts"]
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    threshold: 0.3
+    keys: ["title", "content", "description"]
+
+menu:
+  main:
+    - name: 🔍 Search
+      url: "/search/"
+      weight: 1
 
 frontmatter:
   format: yaml
