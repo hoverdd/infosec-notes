@@ -1,0 +1,19 @@
+<type>(<scope>): <short summary>
+
+# Optional longer description here, wrapped at 72 characters.
+# Explain what and why vs. how.
+
+# Examples:
+# docs(enumeration): add Git Enumeration notes and tools
+# feat(reverseshells): add link to revshell generator
+# fix(games): fix broken OWASP Juice Shop link
+# refactor(posts): move all topics into bundles
+# chore: update Hugo config for search
+
+# Allowed types:
+# feat     - new content or feature
+# fix      - bugfix or correction
+# docs     - documentation only
+# style    - formatting (spacing, style, etc)
+# refactor - restructuring content, no behavior change
+# chore    - meta stuff like config, deps, .gitignore
