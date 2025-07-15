@@ -27,7 +27,6 @@ This section covers techniques, tools, and references for escalating privileges 
   - List of Unix binaries that can be used to bypass local security.
 - [LOLBAS](https://lolbas-project.github.io)
   - Living Off The Land Binaries for Windows.
-- [HackTricks PrivEsc Guide](https://book.hacktricks.xyz/linux-hardening/privilege-escalation)
 - [PayloadsAllTheThings - PrivEsc](https://github.com/swisskyrepo/PayloadsAllTheThings#privilege-escalation)
 
 ---
