@@ -1,5 +1,5 @@
 ---
-title: 'Privilege Escalation Notes'
+title: 'Privilege Escalation'
 weight: 3
 draft: false
 ---
